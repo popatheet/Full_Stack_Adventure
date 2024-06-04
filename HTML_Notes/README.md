@@ -1,9 +1,3 @@
-## Introduction
-
-### Introduction to HTML
-
-HTML, or HyperText Markup Language, is the standard language used to create and design documents on the World Wide Web. It is the backbone of web development, providing the basic structure of web pages. HTML is used to orga## Introduction
-
 ### Introduction to HTML
 
 HTML, or HyperText Markup Language, is the standard language used to create and design documents on the World Wide Web. It is the backbone of web development, providing the basic structure of web pages. HTML is used to organize content and elements on a web page, such as text, images, links, and other multimedia.
